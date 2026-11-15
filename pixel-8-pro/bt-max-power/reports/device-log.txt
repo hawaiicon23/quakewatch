@@ -1,0 +1,15 @@
+--------- beginning of main
+11-14 11:29:11.928 I/BTProbeMax( 2212): Ready. Maximum available TX power experiment.
+11-14 11:29:11.979 I/BTProbeMax( 2212): Controller-selected TX power: +10 dBm
+11-14 11:29:11.980 I/BTProbeMax( 2212): Radio ready · requested maximum available (+20 dBm) · controller 10 dBm
+11-14 11:29:11.995 I/BTProbeMax( 2212): Listening for all BT Probe peers. No pairing.
+11-14 11:29:22.493 I/BTProbeMax( 2212): RX “TEST” · 50F73B1E · -62 dBm
+11-14 11:29:22.532 I/BTProbeMax( 2212): TX acknowledgment
+11-14 11:29:25.577 I/BTProbeMax( 2212): TX acknowledgment
+11-14 11:30:05.977 I/BTProbeMax( 2212): TX “TEST” · collecting replies from all peers
+11-14 11:30:06.066 I/BTProbeMax( 2212): Reply from 37D2B5AC · 89 ms · -61 dBm
+11-14 11:30:10.772 I/BTProbeMax( 2212): Reply from 3CAA5C97 · 4795 ms · -61 dBm
+11-14 11:30:13.993 I/BTProbeMax( 2212): TX “TEST” · collecting replies from all peers
+11-14 11:30:14.206 I/BTProbeMax( 2212): Reply from 37D2B5AC · 213 ms · -61 dBm
+11-14 11:30:14.511 I/BTProbeMax( 2212): Reply from 93DBBD1E · 517 ms · -66 dBm
+11-14 11:30:18.866 I/BTProbeMax( 2212): Reply from 3CAA5C97 · 4873 ms · -75 dBm

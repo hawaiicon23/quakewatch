@@ -1,0 +1,113 @@
+{
+  "voice_id": "21m00Tcm4TlvDq8ikWAM",
+  "model": "eleven_v3",
+  "words_model": "eleven_multilingual_v2",
+  "alerts": {
+    "EQW": {
+      "file": "alert_eqw.mp3",
+      "title": "Shaking expected",
+      "tone": "urgent",
+      "text": "Earthquake! Drop, cover, hold on. Protect your head and neck.",
+      "screen_extra": "Strong shaking is coming. Get under a sturdy table. Wheelchair or walker users: lock, cover, hold on."
+    },
+    "EQN": {
+      "file": "alert_eqn.mp3",
+      "title": "Shaking now",
+      "tone": "urgent",
+      "text": "Earthquake! Drop, cover, hold on. Stay put until the shaking stops.",
+      "screen_extra": "Stay where you are until the shaking stops. Do not run outside. Wheelchair or walker users: lock, cover, hold on."
+    },
+    "EQA": {
+      "file": "alert_eqa.mp3",
+      "title": "Possible light shaking",
+      "tone": "serious",
+      "text": "Earthquake detected nearby. Light shaking is possible. If you feel shaking, drop, cover, and hold on.",
+      "screen_extra": ""
+    },
+    "AFT": {
+      "file": "alert_aft.mp3",
+      "title": "Aftershocks",
+      "tone": "serious",
+      "text": "Aftershocks are possible. If shaking starts again, drop, cover, and hold on. Stay away from damaged buildings and windows.",
+      "screen_extra": ""
+    },
+    "TSU": {
+      "file": "alert_tsu.mp3",
+      "title": "Tsunami",
+      "tone": "urgent",
+      "text": "Tsunami danger. If you are near the coast, go to high ground or inland now. Do not wait for official instructions. Stay away from the shore until officials say it is safe.",
+      "screen_extra": ""
+    },
+    "CLR": {
+      "file": "alert_clr.mp3",
+      "title": "After the shaking",
+      "tone": "calm",
+      "text": "If the shaking has stopped, check yourself and others for injuries. Expect aftershocks. If you smell gas, leave right away and do not use flames or light switches. Use stairs, not elevators.",
+      "screen_extra": ""
+    },
+    "CHK": {
+      "file": "alert_chk.mp3",
+      "title": "Check-in",
+      "tone": "calm",
+      "text": "Community safety check. If you are safe, tap \"I'm OK\" to tell people nearby.",
+      "screen_extra": ""
+    },
+    "SOS": {
+      "file": "alert_sos.mp3",
+      "title": "Help needed",
+      "tone": "urgent",
+      "text": "Someone nearby needs help. Only go if it is safe for you.",
+      "screen_extra": ""
+    },
+    "CXL": {
+      "file": "alert_cxl.mp3",
+      "title": "False alarm",
+      "tone": "calm",
+      "text": "Cancel. The earlier earthquake alert was a false alarm. No action is needed.",
+      "screen_extra": ""
+    },
+    "RLY": {
+      "file": "alert_rly.mp3",
+      "title": "Unverified source",
+      "tone": "calm",
+      "text": "This alert came from nearby phones and could not be verified. Follow official alerts if you receive them.",
+      "screen_extra": ""
+    },
+    "TEST": {
+      "file": "alert_test.mp3",
+      "title": "Test",
+      "tone": "calm",
+      "text": "Test. This is only a test of the earthquake mesh alert system. No action is needed. Test.",
+      "screen_extra": ""
+    }
+  },
+  "example_playlists": {
+    "EQW": [
+      "alert_eqw.mp3"
+    ],
+    "EQN": [
+      "alert_eqn.mp3"
+    ],
+    "EQA:4.8:120": [
+      "alert_eqa.mp3",
+      "word_magnitude.mp3",
+      "num_4.mp3",
+      "word_point.mp3",
+      "num_8.mp3",
+      "word_about.mp3",
+      "num_1.mp3",
+      "word_hundred.mp3",
+      "num_20.mp3",
+      "word_km_away.mp3"
+    ],
+    "TSU": [
+      "alert_tsu.mp3"
+    ],
+    "CXL": [
+      "alert_cxl.mp3"
+    ],
+    "TEST": [
+      "alert_test.mp3"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "file": "elcentro1940.at2",
+    "url": "https://raw.githubusercontent.com/OpenSees/OpenSees/5b9b70511e04e8f1b65710edb98fdffd8ef3add0/EXAMPLES/verification/elCentro.at2",
+    "sha256": "fcc4417f9eba2083d8573010659d1e8177e1f795f47a8e8faa9382ef6fa753a0"
+  },
+  {
+    "file": "borrego1968.at2",
+    "url": "https://raw.githubusercontent.com/OpenSees/OpenSees/5b9b70511e04e8f1b65710edb98fdffd8ef3add0/EXAMPLES/SmallMP/GM/A-ELC180.AT2",
+    "sha256": "c3427a100beb2314a2f144266ecd202ce93006dc159d5eecfd0452f82ba545cd"
+  },
+  {
+    "file": "northridge1994.at2",
+    "url": "https://raw.githubusercontent.com/OpenSees/OpenSees/5b9b70511e04e8f1b65710edb98fdffd8ef3add0/Workshops/OpenSeesDays/ALH360.AT2",
+    "sha256": "4a38181fe3f4d5492dcd13c4c08bec8503d99ab24817d61eaca9b59d930d2e9a"
+  }
+]

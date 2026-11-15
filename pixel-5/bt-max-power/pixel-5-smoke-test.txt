@@ -1,0 +1,7 @@
+2026-11-14: Built and APK signature verified on Arch. Installed and launched on Pixel 5 / Android 14 / API 34. Requested +1 dBm (maximum supported request on this OS); controller selected -1 dBm. Scanner started successfully. Antenna power and range are not measured.
+
+--------- beginning of main
+11-14 11:33:19.495 I/BTProbeMax(21602): Ready. Maximum available TX power experiment.
+11-14 11:33:19.592 I/BTProbeMax(21602): Controller-selected TX power: -1 dBm
+11-14 11:33:19.593 I/BTProbeMax(21602): Radio ready · requested Android 14 API maximum (+1 dBm request) · controller -1 dBm
+11-14 11:33:19.618 I/BTProbeMax(21602): Listening for all BT Probe peers. No pairing.

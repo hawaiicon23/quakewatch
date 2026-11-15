@@ -1,0 +1,840 @@
+{
+  "tested_at": "2026-11-14T10:57:31.964492-08:00",
+  "device": {
+    "ro.product.device": "redfin",
+    "ro.build.version.release": "14",
+    "gsm.version.baseband": "g7250-00264-230619-B-10346159",
+    "ro.board.platform": "lito"
+  },
+  "checks": {
+    "root": {
+      "returncode": 0,
+      "stdout": "uid=0(root) gid=0(root) groups=0(root) context=u:r:ksu:s0",
+      "stderr": ""
+    },
+    "diag_node": {
+      "returncode": 0,
+      "stdout": "crw-rw-rw- 1 system diag 511,   0 1970-01-28 06:54 /dev/diag",
+      "stderr": ""
+    },
+    "network_interfaces": {
+      "returncode": 0,
+      "stdout": "bond0\nbonding_masters\ndummy0\nip6_vti0\nip6tnl0\nip_vti0\nlo\np2p0\nr_rmnet_data0\nr_rmnet_data1\nr_rmnet_data2\nr_rmnet_data3\nrmnet_data0\nrmnet_data1\nrmnet_data2\nrmnet_data3\nrmnet_data4\nrmnet_data5\nrmnet_ipa0\nsit0\nwifi-aware0\nwlan0\nwlan1",
+      "stderr": ""
+    },
+    "discovery_library": {
+      "returncode": 0,
+      "stdout": "-rw-r--r-- 1 root root 10480 2008-12-31 16:00 /vendor/lib64/libril-qc-ltedirectdisc.so",
+      "stderr": ""
+    },
+    "discovery_library_capability_strings": {
+      "returncode": 0,
+      "stdout": "LteDirectDiscovery_DeviceCapability_fields\nLteDirectDiscovery_ServiceStatus_fields",
+      "stderr": ""
+    },
+    "qrtr-probe": {
+      "returncode": 0,
+      "rows": [
+        {
+          "service": 26,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 81
+        },
+        {
+          "service": 16,
+          "version": 2,
+          "instance": 0,
+          "node": 0,
+          "port": 110
+        },
+        {
+          "service": 73,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 97
+        },
+        {
+          "service": 4097,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 32
+        },
+        {
+          "service": 29,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 100
+        },
+        {
+          "service": 3,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 74
+        },
+        {
+          "service": 75,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 103
+        },
+        {
+          "service": 47,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 77
+        },
+        {
+          "service": 41,
+          "version": 1,
+          "instance": 1,
+          "node": 0,
+          "port": 64
+        },
+        {
+          "service": 49,
+          "version": 1,
+          "instance": 2,
+          "node": 0,
+          "port": 38
+        },
+        {
+          "service": 21,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 25
+        },
+        {
+          "service": 2,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 93
+        },
+        {
+          "service": 4,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 80
+        },
+        {
+          "service": 76,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 67
+        },
+        {
+          "service": 4098,
+          "version": 0,
+          "instance": 0,
+          "node": 0,
+          "port": 54
+        },
+        {
+          "service": 23,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 28
+        },
+        {
+          "service": 69,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 109
+        },
+        {
+          "service": 68,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 96
+        },
+        {
+          "service": 66,
+          "version": 1,
+          "instance": 180,
+          "node": 0,
+          "port": 2
+        },
+        {
+          "service": 77,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 83
+        },
+        {
+          "service": 78,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 99
+        },
+        {
+          "service": 9,
+          "version": 2,
+          "instance": 0,
+          "node": 0,
+          "port": 73
+        },
+        {
+          "service": 4097,
+          "version": 3,
+          "instance": 0,
+          "node": 0,
+          "port": 34
+        },
+        {
+          "service": 74,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 102
+        },
+        {
+          "service": 10,
+          "version": 2,
+          "instance": 0,
+          "node": 0,
+          "port": 76
+        },
+        {
+          "service": 36,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 37
+        },
+        {
+          "service": 51,
+          "version": 1,
+          "instance": 2,
+          "node": 0,
+          "port": 24
+        },
+        {
+          "service": 18,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 105
+        },
+        {
+          "service": 42,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 92
+        },
+        {
+          "service": 1,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 79
+        },
+        {
+          "service": 17,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 53
+        },
+        {
+          "service": 24,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 27
+        },
+        {
+          "service": 51,
+          "version": 1,
+          "instance": 3,
+          "node": 0,
+          "port": 108
+        },
+        {
+          "service": 48,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 95
+        },
+        {
+          "service": 43,
+          "version": 2,
+          "instance": 18,
+          "node": 0,
+          "port": 1
+        },
+        {
+          "service": 8,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 82
+        },
+        {
+          "service": 55,
+          "version": 1,
+          "instance": 2,
+          "node": 0,
+          "port": 69
+        },
+        {
+          "service": 34,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 56
+        },
+        {
+          "service": 22,
+          "version": 1,
+          "instance": 16,
+          "node": 0,
+          "port": 33
+        },
+        {
+          "service": 7,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 101
+        },
+        {
+          "service": 12,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 75
+        },
+        {
+          "service": 15,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 23
+        },
+        {
+          "service": 33,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 104
+        },
+        {
+          "service": 11,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 78
+        },
+        {
+          "service": 231,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 65
+        },
+        {
+          "service": 51,
+          "version": 1,
+          "instance": 11,
+          "node": 0,
+          "port": 26
+        },
+        {
+          "service": 5,
+          "version": 1,
+          "instance": 0,
+          "node": 0,
+          "port": 94
+        },
+        {
+          "service": 232,
+          "version": 1,
+          "instance": 0,
+          "node": 5,
+          "port": 29
+        },
+        {
+          "service": 366,
+          "version": 1,
+          "instance": 0,
+          "node": 5,
+          "port": 16
+        },
+        {
+          "service": 66,
+          "version": 1,
+          "instance": 74,
+          "node": 5,
+          "port": 3
+        },
+        {
+          "service": 51,
+          "version": 1,
+          "instance": 5,
+          "node": 5,
+          "port": 6
+        },
+        {
+          "service": 15,
+          "version": 1,
+          "instance": 33,
+          "node": 5,
+          "port": 9
+        },
+        {
+          "service": 769,
+          "version": 1,
+          "instance": 0,
+          "node": 5,
+          "port": 15
+        },
+        {
+          "service": 43,
+          "version": 2,
+          "instance": 20,
+          "node": 5,
+          "port": 2
+        },
+        {
+          "service": 400,
+          "version": 1,
+          "instance": 0,
+          "node": 5,
+          "port": 14
+        },
+        {
+          "service": 15,
+          "version": 1,
+          "instance": 32,
+          "node": 5,
+          "port": 1
+        },
+        {
+          "service": 364,
+          "version": 1,
+          "instance": 0,
+          "node": 5,
+          "port": 30
+        },
+        {
+          "service": 347,
+          "version": 1,
+          "instance": 0,
+          "node": 5,
+          "port": 17
+        },
+        {
+          "service": 4097,
+          "version": 65,
+          "instance": 0,
+          "node": 5,
+          "port": 20
+        },
+        {
+          "service": 24,
+          "version": 1,
+          "instance": 1,
+          "node": 5,
+          "port": 7
+        },
+        {
+          "service": 15,
+          "version": 1,
+          "instance": 34,
+          "node": 5,
+          "port": 10
+        },
+        {
+          "service": 51,
+          "version": 1,
+          "instance": 12,
+          "node": 5,
+          "port": 13
+        },
+        {
+          "service": 4097,
+          "version": 194,
+          "instance": 0,
+          "node": 1,
+          "port": 16439
+        },
+        {
+          "service": 4097,
+          "version": 0,
+          "instance": 1,
+          "node": 1,
+          "port": 16426
+        },
+        {
+          "service": 4096,
+          "version": 1,
+          "instance": 0,
+          "node": 1,
+          "port": 16481
+        },
+        {
+          "service": 4097,
+          "version": 132,
+          "instance": 1,
+          "node": 1,
+          "port": 16442
+        },
+        {
+          "service": 4096,
+          "version": 4,
+          "instance": 0,
+          "node": 1,
+          "port": 16484
+        },
+        {
+          "service": 4097,
+          "version": 64,
+          "instance": 0,
+          "node": 1,
+          "port": 16458
+        },
+        {
+          "service": 4097,
+          "version": 4,
+          "instance": 0,
+          "node": 1,
+          "port": 16432
+        },
+        {
+          "service": 4096,
+          "version": 7,
+          "instance": 0,
+          "node": 1,
+          "port": 16487
+        },
+        {
+          "service": 4097,
+          "version": 130,
+          "instance": 0,
+          "node": 1,
+          "port": 16435
+        },
+        {
+          "service": 53,
+          "version": 1,
+          "instance": 16,
+          "node": 1,
+          "port": 16503
+        },
+        {
+          "service": 4096,
+          "version": 10,
+          "instance": 0,
+          "node": 1,
+          "port": 16490
+        },
+        {
+          "service": 1053,
+          "version": 1,
+          "instance": 0,
+          "node": 1,
+          "port": 16451
+        },
+        {
+          "service": 4097,
+          "version": 132,
+          "instance": 0,
+          "node": 1,
+          "port": 16438
+        },
+        {
+          "service": 4097,
+          "version": 192,
+          "instance": 0,
+          "node": 1,
+          "port": 16425
+        },
+        {
+          "service": 4097,
+          "version": 2,
+          "instance": 1,
+          "node": 1,
+          "port": 16441
+        },
+        {
+          "service": 4096,
+          "version": 3,
+          "instance": 0,
+          "node": 1,
+          "port": 16483
+        },
+        {
+          "service": 4097,
+          "version": 130,
+          "instance": 1,
+          "node": 1,
+          "port": 16444
+        },
+        {
+          "service": 4097,
+          "version": 128,
+          "instance": 1,
+          "node": 1,
+          "port": 16431
+        },
+        {
+          "service": 4096,
+          "version": 6,
+          "instance": 0,
+          "node": 1,
+          "port": 16486
+        },
+        {
+          "service": 4097,
+          "version": 66,
+          "instance": 0,
+          "node": 1,
+          "port": 16434
+        },
+        {
+          "service": 4096,
+          "version": 9,
+          "instance": 0,
+          "node": 1,
+          "port": 16489
+        },
+        {
+          "service": 235,
+          "version": 1,
+          "instance": 0,
+          "node": 1,
+          "port": 16463
+        },
+        {
+          "service": 4097,
+          "version": 68,
+          "instance": 1,
+          "node": 1,
+          "port": 16437
+        },
+        {
+          "service": 4097,
+          "version": 64,
+          "instance": 1,
+          "node": 1,
+          "port": 16424
+        },
+        {
+          "service": 4096,
+          "version": 12,
+          "instance": 0,
+          "node": 1,
+          "port": 16492
+        },
+        {
+          "service": 4097,
+          "version": 66,
+          "instance": 1,
+          "node": 1,
+          "port": 16440
+        },
+        {
+          "service": 52,
+          "version": 1,
+          "instance": 1,
+          "node": 1,
+          "port": 16427
+        },
+        {
+          "service": 4096,
+          "version": 2,
+          "instance": 0,
+          "node": 1,
+          "port": 16482
+        },
+        {
+          "service": 49,
+          "version": 1,
+          "instance": 1,
+          "node": 1,
+          "port": 16456
+        },
+        {
+          "service": 4097,
+          "version": 4,
+          "instance": 1,
+          "node": 1,
+          "port": 16443
+        },
+        {
+          "service": 4097,
+          "version": 2,
+          "instance": 0,
+          "node": 1,
+          "port": 16430
+        },
+        {
+          "service": 40,
+          "version": 1,
+          "instance": 0,
+          "node": 1,
+          "port": 17010
+        },
+        {
+          "service": 4096,
+          "version": 5,
+          "instance": 0,
+          "node": 1,
+          "port": 16485
+        },
+        {
+          "service": 64,
+          "version": 1,
+          "instance": 1,
+          "node": 1,
+          "port": 16472
+        },
+        {
+          "service": 4097,
+          "version": 128,
+          "instance": 0,
+          "node": 1,
+          "port": 16459
+        },
+        {
+          "service": 770,
+          "version": 1,
+          "instance": 0,
+          "node": 1,
+          "port": 16527
+        },
+        {
+          "service": 4097,
+          "version": 68,
+          "instance": 0,
+          "node": 1,
+          "port": 16433
+        },
+        {
+          "service": 4096,
+          "version": 8,
+          "instance": 0,
+          "node": 1,
+          "port": 16488
+        },
+        {
+          "service": 14,
+          "version": 1,
+          "instance": 0,
+          "node": 1,
+          "port": 16462
+        },
+        {
+          "service": 4097,
+          "version": 196,
+          "instance": 0,
+          "node": 1,
+          "port": 16436
+        },
+        {
+          "service": 4097,
+          "version": 0,
+          "instance": 0,
+          "node": 1,
+          "port": 16423
+        },
+        {
+          "service": 4096,
+          "version": 11,
+          "instance": 0,
+          "node": 1,
+          "port": 16491
+        },
+        {
+          "service": 66,
+          "version": 1,
+          "instance": 76,
+          "node": 10,
+          "port": 3
+        },
+        {
+          "service": 51,
+          "version": 1,
+          "instance": 13,
+          "node": 10,
+          "port": 6
+        },
+        {
+          "service": 43,
+          "version": 2,
+          "instance": 23,
+          "node": 10,
+          "port": 2
+        },
+        {
+          "service": 4097,
+          "version": 1,
+          "instance": 1,
+          "node": 10,
+          "port": 11
+        },
+        {
+          "service": 15,
+          "version": 1,
+          "instance": 64,
+          "node": 10,
+          "port": 1
+        },
+        {
+          "service": 24,
+          "version": 1,
+          "instance": 67,
+          "node": 10,
+          "port": 7
+        },
+        {
+          "lookup_service": 0,
+          "complete": true,
+          "service_count": 110,
+          "lte_service_70_count": 0
+        }
+      ],
+      "stderr": ""
+    },
+    "qrtr-probe-lte": {
+      "returncode": 0,
+      "rows": [
+        {
+          "lookup_service": 70,
+          "complete": true,
+          "service_count": 0,
+          "lte_service_70_count": 0
+        }
+      ],
+      "stderr": ""
+    }
+  },
+  "laptop": {
+    "wwan_sysfs": [],
+    "modem_nodes": []
+  },
+  "limitations": [
+    "Service enumeration is a local modem-interface test, not a device-to-device RF transfer test.",
+    "A library on disk does not establish usable firmware or hardware sidelink support.",
+    "No exposed LTE service endpoint at this moment does not prove permanent hardware inability.",
+    "No radio settings, NV items, modem firmware, SIM settings or carrier provisioning were changed."
+  ]
+}

@@ -1,0 +1,5 @@
+# Quake Mesh trusted alert authorities: one per line, "name base64(SubjectPublicKeyInfo DER)".
+# Official alerts (EQW EQN EQA AFT TSU CLR CXL) only sound when signed by one of these keys.
+# Add keys with authority/quake_authority.py pubkey, or the phone's "Authority key..." dialog, then rebuild.
+laptop-authority MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE+rXQd4xCfY/yZUfwcYD7eCyfzpDF6xWA6OTpW6fjMYNLY7z3w4VygU56ayJ41Sv0JBcxcPajpwVg8Gvr30e3qQ==
+Phone-5C97-authority MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEBV/EATCpLpTLFJ1ADBLHk50muqPSWKy+2PRh2YaGMMVboZKDm7cLM/lW3gTJymTQbF2MJYJvaggQGJANO3U65g==

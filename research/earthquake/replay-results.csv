@@ -1,0 +1,4 @@
+record,dt_s,samples,pga_m_s2,first_candidate_s,candidate_windows,two_node_corroborated,isolated_node_corroborated
+borrego1968.at2,0.01000,4000,1.27554,8.000,3,true,false
+elcentro1940.at2,0.02000,1559,3.12656,2.000,1,true,false
+northridge1994.at2,0.02000,3000,0.78280,7.500,1,true,false

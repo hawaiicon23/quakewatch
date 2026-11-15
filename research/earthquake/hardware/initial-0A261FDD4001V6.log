@@ -1,0 +1,57 @@
+11-14 14:06:05.550 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:06:17.029 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:06:20.023 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:06:41.500 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:06:42.173 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:06:46.598 12809 12809 I BTProbe : Earthquake monitor ON ┬╖ SHAKE TEST ┬╖ quorum 2/2
+11-14 14:06:46.614 12809 12809 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:06:50.119 12809 12809 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:06:52.101 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:07:00.315 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:07:02.154 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:07:02.316 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:07:03.146 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:07:03.306 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:07:04.152 12809 12809 I BTProbe : Sensor consensus ┬╖ UNCONFIRMED: 1 candidate node(s); need 2
+11-14 14:07:04.654 12809 12809 I BTProbe : Sensor consensus ┬╖ TEST: correlated shaking detected
+11-14 14:07:05.651 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:07:06.150 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:07:06.312 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:07:07.171 12809 12809 I BTProbe : Sensor consensus ┬╖ UNCONFIRMED: 1 candidate node(s); need 2
+11-14 14:07:08.672 12809 12809 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:07:10.150 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:07:10.680 12809 12809 I BTProbe : Sensor consensus ┬╖ UNCONFIRMED: 1 candidate node(s); need 2
+11-14 14:07:11.181 12809 12809 I BTProbe : Sensor consensus ┬╖ TEST: correlated shaking detected
+11-14 14:07:16.218 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:07:18.236 12809 12809 I BTProbe : Sensor consensus ┬╖ UNCONFIRMED: 1 candidate node(s); need 2
+11-14 14:07:18.750 12809 12809 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:07:24.445 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:07:26.295 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:07:41.412 12809 12809 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:07:41.913 12809 12809 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:07:55.162 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:07:57.696 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:08:07.207 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:08:11.530 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:08:14.366 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:08:14.555 12809 12809 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:08:15.057 12809 12809 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:08:17.203 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:08:17.362 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:08:26.557 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:08:32.591 12809 12809 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:08:33.091 12809 12809 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:08:36.554 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:08:43.399 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:08:43.561 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:08:43.878 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:08:44.037 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:08:47.522 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:08:47.837 12809 12809 I BTProbe : Broadcast update timed out ┬╖ continuing
+11-14 14:08:50.144 12809 12809 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:08:51.156 12809 12809 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:08:57.200 12809 12809 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:08:58.541 15885 15885 I BTProbe : Radio ready ┬╖ requested +20 dBm ┬╖ controller +20 dBm
+11-14 14:08:58.554 15885 15885 I BTProbe : Earthquake monitor ON ┬╖ SHAKE TEST ┬╖ quorum 2/2
+11-14 14:08:58.558 15885 15885 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:09:02.078 15885 15885 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed

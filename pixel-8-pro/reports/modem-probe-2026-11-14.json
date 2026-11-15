@@ -1,0 +1,58 @@
+{
+  "tested_at": "2026-11-14T11:03:40.029418-08:00",
+  "device": {
+    "ro.product.device": "husky",
+    "ro.build.version.release": "17",
+    "gsm.version.baseband": "g5300i-260908-260921-B-16399130,g5300i-260908-260921-B-16399130",
+    "ro.board.platform": "zuma",
+    "kernel": "6.1.162-android14-11-maybe-dirty-eevdf"
+  },
+  "checks": {
+    "root": {
+      "returncode": 0,
+      "stdout": "uid=0(root) gid=0(root) groups=0(root) context=u:r:ksu:s0",
+      "stderr": ""
+    },
+    "modem_nodes": {
+      "returncode": 0,
+      "stdout": "crw-rw---- 1 radio  system 494,   7 2026-11-13 23:24 /dev/umts_boot0\ncrw-rw---- 1 system system 494,   4 2026-11-13 23:24 /dev/umts_dm0\ncrw-rw---- 1 radio  radio  494,   0 2026-11-13 23:24 /dev/umts_ipc0\ncrw-rw---- 1 radio  radio  494,   1 2026-11-13 23:24 /dev/umts_ipc1\ncrw------- 1 root   root   494,   5 2026-11-13 23:24 /dev/umts_loopback\ncrw------- 1 root   root   494,   8 2026-11-13 23:24 /dev/umts_rcs0\ncrw------- 1 root   root   494,   9 2026-11-13 23:24 /dev/umts_rcs1\ncrw-rw---- 1 radio  radio  494,   2 2026-11-13 23:24 /dev/umts_rfs0\ncrw-rw---- 1 system system 494,   3 2026-11-13 23:24 /dev/umts_router\ncrw------- 1 root   root    10,  95 2026-11-13 23:24 /dev/umts_toe0\ncrw------- 1 root   root   494,  10 2026-11-13 23:24 /dev/umts_wfc0\ncrw------- 1 root   root   494,  11 2026-11-13 23:24 /dev/umts_wfc1",
+      "stderr": ""
+    },
+    "network_interfaces": {
+      "returncode": 0,
+      "stdout": "aware_nmi0\ndummy0\nerspan0\ngre0\ngretap0\nifb0\nifb1\nip6_vti0\nip6gre0\nip6tnl0\nip_vti0\nlo\nradiotap0\nrmnet0\nrmnet1\nrmnet10\nrmnet11\nrmnet12\nrmnet13\nrmnet14\nrmnet15\nrmnet16\nrmnet17\nrmnet18\nrmnet19\nrmnet2\nrmnet20\nrmnet21\nrmnet22\nrmnet23\nrmnet24\nrmnet25\nrmnet26\nrmnet27\nrmnet28\nrmnet29\nrmnet3\nrmnet4\nrmnet5\nrmnet6\nrmnet7\nrmnet8\nrmnet9\nsit0\ntunl0\numts_dummy\nv4-rmnet16\nwlan0\nwlan1",
+      "stderr": ""
+    },
+    "radio_services": {
+      "returncode": 0,
+      "stdout": "57\tandroid.hardware.radio.config.IRadioConfig/default: [android.hardware.radio.config.IRadioConfig]\n58\tandroid.hardware.radio.data.IRadioData/slot1: [android.hardware.radio.data.IRadioData]\n59\tandroid.hardware.radio.data.IRadioData/slot2: [android.hardware.radio.data.IRadioData]\n60\tandroid.hardware.radio.messaging.IRadioMessaging/slot1: [android.hardware.radio.messaging.IRadioMessaging]\n61\tandroid.hardware.radio.messaging.IRadioMessaging/slot2: [android.hardware.radio.messaging.IRadioMessaging]\n62\tandroid.hardware.radio.modem.IRadioModem/slot1: [android.hardware.radio.modem.IRadioModem]\n63\tandroid.hardware.radio.modem.IRadioModem/slot2: [android.hardware.radio.modem.IRadioModem]\n64\tandroid.hardware.radio.network.IRadioNetwork/slot1: [android.hardware.radio.network.IRadioNetwork]\n65\tandroid.hardware.radio.network.IRadioNetwork/slot2: [android.hardware.radio.network.IRadioNetwork]\n66\tandroid.hardware.radio.sap.ISap/slot1: [android.hardware.radio.sap.ISap]\n67\tandroid.hardware.radio.sap.ISap/slot2: [android.hardware.radio.sap.ISap]\n68\tandroid.hardware.radio.sim.IRadioSim/slot1: [android.hardware.radio.sim.IRadioSim]\n69\tandroid.hardware.radio.sim.IRadioSim/slot2: [android.hardware.radio.sim.IRadioSim]\n70\tandroid.hardware.radio.voice.IRadioVoice/slot1: [android.hardware.radio.voice.IRadioVoice]\n71\tandroid.hardware.radio.voice.IRadioVoice/slot2: [android.hardware.radio.voice.IRadioVoice]\n155\tcom.google.pixel.modem.logmasklibrary.ILiboemserviceProxy/default: [com.google.pixel.modem.logmasklibrary.ILiboemserviceProxy]\n156\tcom.google.pixel.shared_modem_platform.ISharedModemPlatform/default: [com.google.pixel.shared_modem_platform.ISharedModemPlatform]\n166\tcontextual_mode: [android.app.modes.IContextualModeManager]\n352\ttelephony.oem.oemrilhook: [com.samsung.slsi.telephony.oem.oemrilhook.IOemRilHook]\n371\tuimode: [android.app.IUiModeManager]\nvendor.google.radioext@1.0::IRadioExt/default\nvendor.google.radioext@1.1::IRadioExt/default\nvendor.google.radioext@1.2::IRadioExt/default\nvendor.google.radioext@1.3::IRadioExt/default\nvendor.google.radioext@1.4::IRadioExt/default\nvendor.google.radioext@1.5::IRadioExt/default\nvendor.google.radioext@1.6::IRadioExt/default\nvendor.samsung_slsi.telephony.hardware.oemservice@1.0::IOemService/dm0\nvendor.samsung_slsi.telephony.hardware.oemservice@1.0::IOemService/dm1\nvendor.samsung_slsi.telephony.hardware.radioExternal@1.0::IOemSlsiRadioExternal/rilExternal\nvendor.samsung_slsi.telephony.hardware.radioExternal@1.1::IOemSlsiRadioExternal/rilExternal",
+      "stderr": ""
+    },
+    "direct_feature_files": {
+      "returncode": 1,
+      "stdout": "",
+      "stderr": ""
+    },
+    "direct_feature_strings": {
+      "returncode": 0,
+      "stdout": "/vendor/lib64/libsitril.so\n/vendor/lib64/libsit_oem.so\n/vendor/lib64/liboemservice.so\n/vendor/lib64/vendor.radio.protocol.sit.json.so\n/vendor/lib64/vendor.radio.protocol.sit.base.so",
+      "stderr": ""
+    },
+    "native_cpif_query": {
+      "returncode": 0,
+      "stdout": "{\"cp_status_ioctl_result\":4,\"cpif_version_ioctl_result\":0,\"cpif_version\":\"CPIF-20220408R1\"}",
+      "stderr": "",
+      "data": {
+        "cp_status_ioctl_result": 4,
+        "cpif_version_ioctl_result": 0,
+        "cpif_version": "CPIF-20220408R1"
+      }
+    }
+  },
+  "limitations": [
+    "CPIF status/version queries demonstrate local driver access, not sidelink support.",
+    "No over-the-air direct cellular transfer was attempted or verified.",
+    "A string/file search cannot prove that modem hardware lacks a feature.",
+    "No radio configuration, NV items, modem firmware, SIM or carrier provisioning was changed."
+  ]
+}

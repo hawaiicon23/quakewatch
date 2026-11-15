@@ -1,0 +1,18 @@
+11-14 14:08:58.541 15885 15885 I BTProbe : Radio ready ┬╖ requested +20 dBm ┬╖ controller +20 dBm
+11-14 14:08:58.554 15885 15885 I BTProbe : Earthquake monitor ON ┬╖ SHAKE TEST ┬╖ quorum 2/2
+11-14 14:08:58.558 15885 15885 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:09:02.078 15885 15885 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:09:27.206 15885 15885 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:09:28.217 15885 15885 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:09:33.758 15885 15885 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:09:34.769 15885 15885 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:09:37.280 15885 15885 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:09:38.292 15885 15885 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:09:54.552 15885 15885 I BTProbe : Bluetooth stopped.
+11-14 14:09:59.845 15885 15885 I BTProbe : Bluetooth is on ┬╖ starting radio
+11-14 14:10:00.858 15885 15885 I BTProbe : Radio ready ┬╖ requested +20 dBm ┬╖ controller +20 dBm
+11-14 14:10:00.869 15885 15885 I BTProbe : Earthquake monitor ON ┬╖ SHAKE TEST ┬╖ quorum 2/2
+11-14 14:10:00.873 15885 15885 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:10:04.377 15885 15885 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:10:41.423 15885 15885 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:10:41.925 15885 15885 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed

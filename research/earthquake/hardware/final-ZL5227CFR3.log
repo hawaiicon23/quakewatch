@@ -1,0 +1,31 @@
+11-14 14:08:56.844 15865 15865 I BTProbe : Radio ready ┬╖ requested +21 dBm ┬╖ controller +0 dBm
+11-14 14:08:56.876 15865 15865 I BTProbe : Earthquake monitor ON ┬╖ SHAKE TEST ┬╖ quorum 2/2
+11-14 14:08:56.882 15865 15865 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:09:02.570 15865 15865 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:09:06.579 15865 15865 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:09:10.102 15865 15865 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:09:19.147 15865 15865 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:09:21.182 15865 15865 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:09:25.191 15865 15865 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:09:27.706 15865 15865 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:09:30.734 15865 15865 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:09:31.756 15865 15865 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:09:44.839 15865 15865 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:09:46.840 15865 15865 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:09:49.843 15865 15865 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:10:06.858 15865 15865 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:10:09.359 15865 15865 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:10:10.860 15865 15865 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:10:17.865 15865 15865 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:10:18.866 15865 15865 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:10:21.368 15865 15865 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:10:22.870 15865 15865 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:10:33.892 15865 15865 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:10:34.392 15865 15865 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:10:45.409 15865 15865 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:10:46.411 15865 15865 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:11:14.480 15865 15865 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:11:15.985 15865 15865 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:11:21.513 15865 15865 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes
+11-14 14:11:25.029 15865 15865 I BTProbe : Sensor consensus ┬╖ NO CORRELATED SHAKING observed
+11-14 14:11:32.062 15865 15865 I BTProbe : Sensor consensus ┬╖ INSUFFICIENT DATA: waiting for ready nodes

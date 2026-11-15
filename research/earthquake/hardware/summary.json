@@ -1,0 +1,44 @@
+[
+  {
+    "file": "pixel5-sensor-capture.csv",
+    "metadata": [
+      "# BT Probe experimental sensor capture; raw accelerometer includes gravity; SI m/s^2",
+      "# node=93DBBD1E sensor=LSM6DSR Accelerometer range_m_s2=156.9064 resolution_m_s2=0.0047856453"
+    ],
+    "samples": 3642,
+    "duration_s": 67.87621137899987,
+    "mean_hz": 53.64176824292353,
+    "max_gap_s": 0.01880718699976569,
+    "states": {
+      "1": 162,
+      "2": 2913,
+      "3": 567
+    },
+    "modes": {
+      "TEST": 3642
+    },
+    "median_filtered_rms_m_s2": 0.0101,
+    "max_filtered_rms_m_s2": 1.76596
+  },
+  {
+    "file": "moto-sensor-capture.csv",
+    "metadata": [
+      "# BT Probe experimental sensor capture; raw accelerometer includes gravity; SI m/s^2",
+      "# node=37D2B5AC sensor=BMI160 Accelerometer range_m_s2=39.226643 resolution_m_s2=0.0023956299"
+    ],
+    "samples": 3485,
+    "duration_s": 69.89868946100069,
+    "mean_hz": 49.84356683745644,
+    "max_gap_s": 0.02009798499966564,
+    "states": {
+      "1": 150,
+      "2": 2810,
+      "3": 525
+    },
+    "modes": {
+      "TEST": 3485
+    },
+    "median_filtered_rms_m_s2": 0.012846,
+    "max_filtered_rms_m_s2": 1.336335
+  }
+]

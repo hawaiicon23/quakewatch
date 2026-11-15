@@ -1,0 +1,33 @@
+test_ack_target (test_probe.ProtocolTests.test_ack_target) ... ok
+test_android_delivery_state (test_probe.ProtocolTests.test_android_delivery_state) ... ok
+test_chat_fragmentation_loss_and_reassembly (test_probe.ProtocolTests.test_chat_fragmentation_loss_and_reassembly) ... ok
+test_fast_chat_live_preview_alert_hops_and_signatures (test_probe.ProtocolTests.test_fast_chat_live_preview_alert_hops_and_signatures) ... Note: /srv/projects/bluetooth-test/android-app/src/dev/blx/btprobe/AlertPlayer.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ok
+test_java_interoperability (test_probe.ProtocolTests.test_java_interoperability) ... ok
+test_maximum_legacy_payload (test_probe.ProtocolTests.test_maximum_legacy_payload) ... ok
+test_quake_detection_consensus_and_recorded_waveforms (test_probe.ProtocolTests.test_quake_detection_consensus_and_recorded_waveforms) ... ok
+test_reject_malformed (test_probe.ProtocolTests.test_reject_malformed) ... ok
+test_utf8_limit (test_probe.ProtocolTests.test_utf8_limit) ... ok
+test_voice_framing_and_test_tone (test_probe.ProtocolTests.test_voice_framing_and_test_tone) ... ok
+test_ack_requires_matching_recipient_and_pending_id (test_probe.ReceiverTests.test_ack_requires_matching_recipient_and_pending_id) ... ok
+test_auto_reply_can_be_disabled (test_probe.ReceiverTests.test_auto_reply_can_be_disabled) ... ok
+test_continuous_beacon_peers_are_separate_and_bounded (test_probe.ReceiverTests.test_continuous_beacon_peers_are_separate_and_bounded) ... ok
+test_continuous_beacons_update_signal_without_ack_or_message_spam (test_probe.ReceiverTests.test_continuous_beacons_update_signal_without_ack_or_message_spam) ... ok
+test_continuous_tick_does_not_build_a_backlog (test_probe.ReceiverTests.test_continuous_tick_does_not_build_a_backlog) ... ok
+test_duplicate_cache_bounded (test_probe.ReceiverTests.test_duplicate_cache_bounded) ... ok
+test_lost_ack_is_repeated_without_duplicate_message (test_probe.ReceiverTests.test_lost_ack_is_repeated_without_duplicate_message) ... ok
+test_multiple_peers_can_reply_to_same_broadcast (test_probe.ReceiverTests.test_multiple_peers_can_reply_to_same_broadcast) ... ok
+test_own_packets_and_malformed_ignored (test_probe.ReceiverTests.test_own_packets_and_malformed_ignored) ... ok
+test_receive_deduplicates_and_replies_once (test_probe.ReceiverTests.test_receive_deduplicates_and_replies_once) ... ok
+test_relay_disabled_does_not_forward_other_destinations (test_probe.ReceiverTests.test_relay_disabled_does_not_forward_other_destinations) ... ok
+test_relay_payload_limits_and_invalid_hops (test_probe.ReceiverTests.test_relay_payload_limits_and_invalid_hops) ... ok
+test_relay_policy_hop_limit_duplicates_and_bounded_retries (test_probe.ReceiverTests.test_relay_policy_hop_limit_duplicates_and_bounded_retries) ... ok
+test_relay_three_node_delivery_and_destination_ack (test_probe.ReceiverTests.test_relay_three_node_delivery_and_destination_ack) ... ok
+test_retry_is_cancelled_after_ack_or_session_change (test_probe.ReceiverTests.test_retry_is_cancelled_after_ack_or_session_change) ... ok
+test_timeout_drops_queued_retry_and_preserves_other_peers (test_probe.ReceiverTests.test_timeout_drops_queued_retry_and_preserves_other_peers) ... ok
+
+----------------------------------------------------------------------
+Ran 26 tests in 3.189s
+
+OK

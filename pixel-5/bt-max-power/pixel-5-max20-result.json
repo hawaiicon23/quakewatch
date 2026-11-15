@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-14",
+  "device": "Pixel 5",
+  "serial": "0A261FDD4001V6",
+  "android_api": 34,
+  "root_verified": true,
+  "root_use": "Read vendor configuration and existing HCI snooz log; no firmware/calibration modifications",
+  "request_path": "Validated experimental Parcelable compatibility path; not the Android 14 public builder",
+  "apk_sha256": "73a0fa7266c61cf3f47a496cb3986bf0ada70edda82efa465fec8538ec14a55d",
+  "hci_evidence": [
+    {
+      "event": "LE Set Extended Advertising Parameters",
+      "opcode": "0x2036",
+      "handle": 1,
+      "requested_dbm": 20
+    },
+    {
+      "event": "Command Complete",
+      "opcode": "0x2036",
+      "status": 0,
+      "selected_dbm": 20
+    }
+  ],
+  "antenna_output_measured": false,
+  "application_log": "11-14 11:42:31.276 I/BTProbeMax(22928): Ready. Maximum available TX power experiment.\n11-14 11:42:31.289 I/BTProbeMax(22928): Parameter check passed \u00b7 +20 dBm request forwarded; firmware selects output\n11-14 11:42:31.347 I/BTProbeMax(22928): Controller-selected TX power: +20 dBm\n11-14 11:42:31.348 I/BTProbeMax(22928): Radio ready \u00b7 requested experimental maximum (+20 dBm request) \u00b7 controller 20 dBm\n11-14 11:42:31.369 I/BTProbeMax(22928): Listening for all BT Probe peers. No pairing.\n11-14 11:43:43.388 I/BTProbeMax(22928): Bluetooth test stopped.\n11-14 11:43:43.390 I/BTProbeMax(22928): Parameter check passed \u00b7 +20 dBm request forwarded; firmware selects output\n11-14 11:43:43.409 I/BTProbeMax(22928): Controller-selected TX power: +20 dBm\n11-14 11:43:43.411 I/BTProbeMax(22928): Radio ready \u00b7 requested experimental maximum (+20 dBm request) \u00b7 controller 20 dBm\n11-14 11:43:43.447 I/BTProbeMax(22928): Listening for all BT Probe peers. No pairing.\n11-14 11:44:02.181 I/BTProbeMax(22928): RX \u201cTEST\u201d \u00b7 50F73B1E \u00b7 -61 dBm\n11-14 11:44:02.266 I/BTProbeMax(22928): TX acknowledgment\n11-14 11:44:04.305 I/BTProbeMax(22928): TX acknowledgment"
+}

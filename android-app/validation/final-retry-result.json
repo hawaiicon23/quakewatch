@@ -1,0 +1,24 @@
+{
+  "0A261FDD4001V6": {
+    "row": 5,
+    "sender": "93DBBD1E",
+    "message_id": -1913311646,
+    "name": "jerome 5",
+    "type": 2,
+    "bytes": 1484,
+    "sha256": "d1650a02d31f62e75c36277fb120d060b006ffc8f7943b341537d8c3e157c9c3",
+    "outgoing": true,
+    "status": "Delivered to 1 peer(s)"
+  },
+  "3A101FDJG001VM": {
+    "row": 5,
+    "sender": "93DBBD1E",
+    "message_id": -1913311646,
+    "name": "jerome 5",
+    "type": 2,
+    "bytes": 1484,
+    "sha256": "d1650a02d31f62e75c36277fb120d060b006ffc8f7943b341537d8c3e157c9c3",
+    "outgoing": false,
+    "status": "Received"
+  }
+}
